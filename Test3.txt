@@ -1,0 +1,7 @@
+Program Test3  
+n = 0  
+if n < 5 then  
+p = p + 1  
+end if  
+end 
+

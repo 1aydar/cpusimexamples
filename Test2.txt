@@ -1,0 +1,7 @@
+Program Test2  
+n = 0  
+i = n + 1  
+p = i * 3  
+writeln ("n=", n, "i=", i, "p=", p)
+end 
+

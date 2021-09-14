@@ -1,0 +1,11 @@
+program Test1
+var IntVar integer
+var BoolVar boolean
+var StrVar1 string (5)
+var StrVar2 string(20)
+
+IntVar = 6
+BoolVar = true
+StrVar1 = "Hello"
+StrVar2 = "And again"
+end

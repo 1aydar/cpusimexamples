@@ -1,0 +1,13 @@
+Program Test5  
+sub One  
+writeln("I am sub One")
+end sub  
+ 
+sub Two  
+call One  
+writeln("I am sub Two") 
+end sub  
+ 
+call Two  
+End 
+
